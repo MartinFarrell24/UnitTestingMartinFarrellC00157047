@@ -1,4 +1,0 @@
-﻿  Mainline.cpp
-C:\Users\gow3m_qfqnciz\Documents\Phil's Module\UnitTestingMartinFarrellC00157047\MuddyGames-simpleasserttestsolution-8f53f1865109\ProductionProject\Mainline.cpp(9,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\gow3m_qfqnciz\Documents\Phil's Module\UnitTestingMartinFarrellC00157047\MuddyGames-simpleasserttestsolution-8f53f1865109\ProductionProject\Mainline.cpp(27,15): warning C4390:  ';': empty controlled statement found; is this the intent?
-  ProductionProject.vcxproj -> C:\Users\gow3m_qfqnciz\Documents\Phil's Module\UnitTestingMartinFarrellC00157047\MuddyGames-simpleasserttestsolution-8f53f1865109\Debug\ProductionProject.exe
