@@ -9,10 +9,14 @@ int main()
 {
 	Production p;
 
-	int a = 10;
+	int numArray[] = { 1, 2, 3, 4, 5, 6 };
+	int size = std::size(numArray);
+	int result = p.biggerOrSmaller(size, numArray, 46);
 
-	cout << p.someMethod(a) << endl;
-	assert(p.someMethod(a) == 0);
-	assert(p.someMethod(a) == 1);
+	bool res = p.checkForRepeatingNum(size, numArray);
+
+	assert(p.biggerOrSmaller(size, numArray, 46)== -1);//check if number is between 1-46
+	assert(p.checkForRepeatingNum(size, numArray) == false);//check for repeating numbers
+
 	cin.get();
 }
